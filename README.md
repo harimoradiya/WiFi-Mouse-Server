@@ -2,6 +2,14 @@
 
 A powerful Kotlin Multiplatform server application that enables remote control of your computer via WiFi. Transform your Android device into a wireless mouse and keyboard controller with real-time device monitoring capabilities.
 
+## 🖱️ Client App
+
+**WiFi Mouse Control App** for your Android device to connect and control your computer.
+
+👉 [View Github Repo](https://github.com/harimoradiya/WiFi-Mouse-Android-Client)
+
+---
+
 ## Screenshots
 
 | Server App (Mac) |
